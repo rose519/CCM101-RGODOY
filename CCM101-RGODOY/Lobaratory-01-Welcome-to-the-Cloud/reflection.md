@@ -1,6 +1,5 @@
 # Reflection
 
-## My Experience
 
 
 Mission 1 helped me learn the basics of Linux and cloud computing. I learned how to use the terminal, create users, manage files and directories, and check system information.
