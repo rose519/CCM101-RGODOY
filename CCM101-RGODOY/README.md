@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is Rose Ann A. Godoy, and I am a Bachelor of Science in Information Technology (BSIT) student. This repository serves as my Cloud Computing portfolio for *CCM101*.
+My name is Rose Ann A. Godoy, and I am a Bachelor of Science in Information Technology (BSIT) student. This repository serves as my Cloud Computing portfolio for *CCM101*.
 
 ## About This Repository
 
