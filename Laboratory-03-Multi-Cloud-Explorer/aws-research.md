@@ -1,28 +1,28 @@
-AWS – Amazon Web Services
+# AWS – Amazon Web Services
 
-Brief Overview:
+# Brief Overview:
 AWS is a cloud computing platform that provides computing, storage, database, networking, and other cloud services.
 
-Global Infrastructure:
+# Global Infrastructure:
 AWS has a global infrastructure made up of Regions and Availability Zones distributed around the world.
 
-Cloud Management Console:
+# Cloud Management Console:
 AWS Management Console is a web-based interface used to create, manage, and monitor AWS resources.
 
-Four Core Services:
+# Four Core Services:
 
 Amazon EC2 – Virtual servers/compute.
 Amazon S3 – Object storage.
 Amazon VPC – Networking.
 Amazon RDS – Managed relational database.
 
-Three Advantages:
+# Three Advantages:
 
 Wide range of cloud services.
 Global infrastructure.
 Flexible and scalable resources.
 
-Typical Enterprise Use Cases:
+# Typical Enterprise Use Cases:
 
 Web applications
 Data storage
