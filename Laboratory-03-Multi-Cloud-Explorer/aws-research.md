@@ -12,19 +12,27 @@ AWS Management Console is a web-based interface used to create, manage, and moni
 # Four Core Services:
 
 Amazon EC2 – Virtual servers/compute.
+
 Amazon S3 – Object storage.
+
 Amazon VPC – Networking.
+
 Amazon RDS – Managed relational database.
 
 # Three Advantages:
 
 Wide range of cloud services.
+
 Global infrastructure.
+
 Flexible and scalable resources.
 
 # Typical Enterprise Use Cases:
 
 Web applications
+
 Data storage
+
 Database hosting
+
 Backup and disaster recovery
