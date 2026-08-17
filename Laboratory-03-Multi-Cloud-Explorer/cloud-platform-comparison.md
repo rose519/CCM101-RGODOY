@@ -26,6 +26,62 @@ Google Cloud Platform is strong in Artificial Intelligence and Kubernetes. It pr
 
 I would choose AWS because it offers many services and has flexible options for different types of applications. It is also useful for both small businesses and large organizations.
 
+# Client Recommendations
+
+## Client A – Startup Company
+
+**Recommended Platform: AWS**
+
+I recommend AWS because it is flexible and can support a growing mobile app. The company can start small and increase resources when needed. It can also help manage the budget.
+
+**Services:**
+
+* Amazon EC2
+* Amazon S3
+* Amazon RDS
+
+---
+
+## Client B – University
+
+**Recommended Platform: Microsoft Azure**
+
+I recommend Azure because the university already uses Microsoft products. Azure works well with Windows Server, Microsoft 365, and Active Directory. This can make moving services to the cloud easier.
+
+**Services:**
+
+* Azure Virtual Machines
+* Microsoft Entra ID
+* Azure SQL Database
+
+---
+
+## Client C – AI Research Company
+
+**Recommended Platform: Google Cloud**
+
+I recommend Google Cloud because it is strong in AI and Machine Learning. It can provide the computing power needed for their research. It also supports modern AI applications.
+
+*Services:
+
+* Compute Engine
+* Vertex AI
+* Google Kubernetes Engine
+
+
+## Client D – Global E-Commerce Company
+
+**Recommended Platform: AWS**
+
+I recommend AWS because the company serves customers around the world. AWS can provide scalable and reliable infrastructure for the online store. It can also handle increasing numbers of users.
+
+**Services:**
+
+* Amazon EC2
+* Amazon S3
+* Amazon RDS
+
+
 
 | Service Category    | AWS        | Azure                          | GCP                            |
 | ------------------- | ---------- | ------------------------------ | ------------------------------ |
