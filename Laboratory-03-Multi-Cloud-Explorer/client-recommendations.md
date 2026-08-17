@@ -1,10 +1,9 @@
-Client A – Startup Company
-
-Recommended Platform: AWS
+# Client A – Startup Company
+# Recommended Platform: AWS
 
 AWS is a good choice for a startup because it offers flexible and scalable cloud services. The company can start with small resources and increase them as the application grows. AWS also provides many services that can support mobile applications.
 
-Services:
+# Services:
 
 Amazon EC2
 
@@ -12,13 +11,12 @@ Amazon S3
 
 Amazon RDS
 
-Client B – University
-
-Recommended Platform: Microsoft Azure
+# Client B – University
+# Recommended Platform: Microsoft Azure
 
 Microsoft Azure is the best choice because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure provides strong integration with Microsoft technologies. This can make cloud migration easier for the university.
 
-Services:
+# Services:
 
 Azure Virtual Machines
 
@@ -26,13 +24,12 @@ Azure SQL Database
 
 Microsoft Entra ID
 
-Client C – AI Research Company
-
-Recommended Platform: Google Cloud Platform
+# Client C – AI Research Company
+# Recommended Platform: Google Cloud Platform
 
 GCP is suitable for an AI research company because of its strong artificial intelligence and machine learning capabilities. It also provides high-performance computing resources for demanding workloads. GCP supports Kubernetes for containerized applications.
 
-Services:
+# Services:
 
 Compute Engine
 
@@ -40,13 +37,12 @@ Vertex AI
 
 Google Kubernetes Engine
 
-Client D – Global E-Commerce Company
-
-Recommended Platform: AWS
+# Client D – Global E-Commerce Company
+# Recommended Platform: AWS
 
 AWS is suitable for a global e-commerce company because it provides scalable and highly available infrastructure. The company can distribute applications across regions and scale resources based on demand. This is useful when there are many customers accessing the website.
 
-Services:
+# Services:
 
 Amazon EC2
 
